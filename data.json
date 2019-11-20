@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80",
+      "name": "MAYK R BRITO",
+      "email": "maykbrito@gmail.com",
+      "birth": 949363200000,
+      "gender": "M",
+      "blood": "AB+",
+      "weight": "90",
+      "height": "188"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1536007364907-ffbbce98e2d1?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9",
+      "name": "Fernanda",
+      "email": "fernanda@gymmanager.com",
+      "birth": 318297600000,
+      "gender": "F",
+      "blood": "AB+",
+      "weight": "65",
+      "height": "168"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1524594152303-9fd13543fe6e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "name": "asdfefasdf",
+      "birth": -23890291200000,
+      "gender": "M",
+      "services": "musculação, crossfit, natação",
+      "created_at": 1573568310539
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "name": "Mayk",
+      "birth": 949363200000,
+      "gender": "M",
+      "services": "musculação, crossfit",
+      "created_at": 1573568336393
+    }
+  ]
+}
